@@ -1,0 +1,15 @@
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\bin\Debug\StoreData.mdb
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\bin\Debug\Lab Project.exe.config
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\bin\Debug\Lab Project.exe
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\bin\Debug\Lab Project.pdb
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.csproj.AssemblyReference.cache
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.csproj.SuggestedBindingRedirects.cache
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab_Project.Form1.resources
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab_Project.Properties.Resources.resources
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.csproj.GenerateResource.cache
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.csproj.CoreCompileInputs.cache
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.exe
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab Project.pdb
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab_Project.Form2.resources
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab_Project.Form3.resources
+D:\Seneca\Fourth Semester\Event Driven Programming PRG455NCCL.05859.2227 (Lab)\Lab Project\Lab Project\obj\Debug\Lab_Project.Form4.resources
